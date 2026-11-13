@@ -1,0 +1,13 @@
+id_vente,produit,region,montant,categorisation
+1,Ordinateur,Nord,150000,eleve
+2,Téléphone,Sud,45000,faible
+3,Souris,Est,5000,faible
+4,Clavier,Ouest,12000,faible
+5,Écran,Nord,85000,moyen
+6,Téléphone,Sud,65000,moyen
+7,Ordinateur,Est,200000,eleve
+8,Souris,Nord,8000,faible
+9,Clavier,Ouest,25000,faible
+10,Écran,Sud,95000,moyen
+11,Téléphone,Est,35000,faible
+12,Ordinateur,Nord,180000,eleve
